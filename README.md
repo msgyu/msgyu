@@ -4,6 +4,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msgyu)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msgyu&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <!--
 **msgyu/msgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
