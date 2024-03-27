@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there! I'm GYU
+
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=msgyu&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
@@ -10,6 +11,13 @@
 [![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msgyu&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<!-- Top languages in commits card -->[![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msgyu&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msgyu&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+Hello there! I'm a server-side specialist with a passion for crafting robust solutions using Golang. My journey in the tech world is driven by my enthusiasm for developing scalable and efficient systems. I'm currently immersed in the development of a CtoC business freemarket app, leveraging my skills in Golang to build a platform that connects sellers with buyers in a seamless and dynamic environment.
+
+My technical interests extend to innovative technologies, and I have a particular interest in leveraging the capabilities of Elasticsearch, AWS, and GCP to enhance project outcomes. With each project, I aim to contribute to a future where technology not only simplifies life but also creates opportunities for meaningful connections and business growth.
+
+Here on GitHub, you'll find my explorations, challenges, and achievements in server-side development. I am always eager to connect with fellow developers who share a passion for high-quality software, cloud computing, and, of course, all things Golang. Let's collaborate to push the boundaries of what's possible and build something truly amazing.
+
 
 
 <!-- スキル一覧　https://rahuldkjain.github.io/gh-profile-readme-generator/-->
