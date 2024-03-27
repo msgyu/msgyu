@@ -4,6 +4,27 @@
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=msgyu&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Profile details card グラフ -->
