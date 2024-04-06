@@ -20,6 +20,7 @@
 
 #### 機能開発
 - 検索処理の機能リプレイス
+  - Function Option パターンを利用
 - カート機能の開発
 - オリパ販売機能の開発
 - 抽選機能の開発
@@ -34,7 +35,9 @@
 #### 課題解決
 - DBの負荷改善
   - ElastiCacheを利用して、Redisやmemcachedを利用してRDSの負荷を軽減
-  - CloudFrontを利用してAPIのキャッシュを行う。この際にキャッシュ可能なようにAPIを分割などを行う。
+  - CloudFrontを利用してAPIのキャッシュを行う。この際にキャッシュ可能なようにAPIの分割を行う。
+- エラーログの検知
+  - エラーログを早期に気づけるようにDatadogのモニター機能を利用する。
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
