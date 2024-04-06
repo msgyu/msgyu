@@ -31,13 +31,12 @@
 - BtoCの一次流通商品の発売
 - Flutter用APIの実装
   - 異なるバージョンのAppに考慮したAPI実装の知見を得る
-
-#### 課題解決
 - DBの負荷改善
   - ElastiCacheを利用して、Redisやmemcachedを利用してRDSの負荷を軽減
   - CloudFrontを利用してAPIのキャッシュを行う。この際にキャッシュ可能なようにAPIの分割を行う。
 - エラーログの検知
   - エラーログを早期に気づけるようにDatadogのモニター機能を利用する。
+- schemaspyを導入し、ER図の自動生成
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
