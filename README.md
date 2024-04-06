@@ -17,6 +17,8 @@
 
 
 ### CtoCのフリマアプリの開発に従事
+
+#### 機能開発
 - 検索処理の機能リプレイス
 - カート機能の開発
 - オリパ販売機能の開発
@@ -27,6 +29,12 @@
   - SNSを利用したお知らせ機能
 - BtoCの一次流通商品の発売
 - Flutter用APIの実装
+  - 異なるバージョンのAppに考慮したAPI実装の知見を得る
+
+#### 課題解決
+- DBの負荷改善
+  - ElastiCacheを利用して、Redisやmemcachedを利用してRDSの負荷を軽減
+  - CloudFrontを利用してAPIのキャッシュを行う。この際にキャッシュ可能なようにAPIを分割などを行う。
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
