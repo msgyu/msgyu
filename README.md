@@ -15,10 +15,16 @@
 [![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msgyu&theme=zenburn)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+### 興味関心　
+メイン言語： Go言語
+
 
 ### CtoCのフリマアプリの開発に従事
 
-#### 機能開発
+#### 開発
+- CICDの実行時間の短縮
+- CUJのE2Eテストの拡充
+  - MagicPodによるテストを追加
 - 検索処理の機能リプレイス
   - Function Option パターンを利用
 - カート機能の開発
@@ -37,6 +43,10 @@
 - エラーログの検知
   - エラーログを早期に気づけるようにDatadogのモニター機能を利用する。
 - schemaspyを導入し、ER図の自動生成
+
+#### その他
+- CUJの選定
+
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
